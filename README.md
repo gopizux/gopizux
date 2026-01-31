@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm <a href="https://bento.me/gopizux" target="_blank">Gopi</a></h1>
+<h1 align="center">Hi I'm <a href="https://bento.me/gopizux" target="_blank">Gopi</a></h1>
 <h3 align="center">Bioinformatician | Cancer Genomics & Systems Biology Researcher</h3>
 
 <p align="center">
